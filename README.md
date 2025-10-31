@@ -1,4 +1,4 @@
-# Agentic Reasoning System (Warp Ethos)
+# Agentic Reasoning System (Ethos)
 
 This project implements a lightweight, fully local Agentic Reasoning System designed for logic-based question answering with transparent reasoning traces.
 
@@ -73,4 +73,5 @@ File path (by default): `artifacts/output.csv`
 - Randomness is seeded
 
 ## Notes
+
 - If you wish, you can extend `tools.py` with richer symbolic solvers (e.g., equation solving using your own simple parser) to cover more logic domains.
